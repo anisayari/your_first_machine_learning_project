@@ -1,6 +1,8 @@
 # Your First Machine Learning Project
 It is a repository to help to you to run your first machine learning algorithm. Build from the famous titanic competitions on Kaggle.
+
 https://www.kaggle.com/c/titanic
+
 If you are new in Data Science please do not hesitate to visit this Medium Article : <here_link>
 
 ## Description 
