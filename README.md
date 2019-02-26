@@ -5,7 +5,7 @@ It is a repository to help to you to run your first machine learning algorithm. 
 
 https://www.kaggle.com/c/titanic
 
-If you are new in Data Science please do not hesitate to visit this Medium Article : <here_link>
+If you are new in Data Science please do not hesitate to visit this [Medium Article](https://towardsdatascience.com/the-complete-guide-to-start-your-datascience-ai-journey-c3d867215934)
 
 ## Description 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
